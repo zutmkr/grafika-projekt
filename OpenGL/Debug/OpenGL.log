@@ -1,0 +1,32 @@
+﻿Build started 18.09.2016 19:32:59.
+     1>Project "C:\Users\Akomary\Desktop\grafika gra\OpenGL\OpenGL.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         E:\Program Files\visualstudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\OpenGL.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Program Files\visualstudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt biblioteka\Rysowanie.cpp OpenGL.cpp tdrzewo.cpp tjezioro.cpp tkula.cpp tlampa.cpp tprostopad.cpp
+         tprostopad.cpp
+         tlampa.cpp
+         tkula.cpp
+         tjezioro.cpp
+         tdrzewo.cpp
+         OpenGL.cpp
+         Rysowanie.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\OpenGL.res" OpenGL.rc 
+       Link:
+         E:\Program Files\visualstudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Akomary\Desktop\grafika gra\Debug\OpenGL.exe" /INCREMENTAL /NOLOGO opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Akomary\Desktop\grafika gra\Debug\OpenGL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Akomary\Desktop\grafika gra\Debug\OpenGL.lib" /MACHINE:X86 Debug\OpenGL.res
+         Debug\Rysowanie.obj
+         Debug\OpenGL.obj
+         Debug\stdafx.obj
+         Debug\tdrzewo.obj
+         Debug\tjezioro.obj
+         Debug\tkula.obj
+         Debug\tlampa.obj
+         Debug\tprostopad.obj
+         OpenGL.vcxproj -> C:\Users\Akomary\Desktop\grafika gra\Debug\OpenGL.exe
+     1>Done Building Project "C:\Users\Akomary\Desktop\grafika gra\OpenGL\OpenGL.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.03
