@@ -1,1 +1,3 @@
 # grafika-projekt
+
+COS WSPANIALEGO
