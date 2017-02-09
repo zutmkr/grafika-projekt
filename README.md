@@ -1,3 +1,3 @@
 # grafika-projekt
 
-COS WSPANIALEGO
+Tu będzie zassze najbardziej aktualna wersja.
